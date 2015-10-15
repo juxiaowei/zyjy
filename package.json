@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.0.3",
+    "bootstrap": "^3.3.5",
     "browser-sync": "^2.9.11",
     "normalize.css": "^3.0.3",
     "perfect-scrollbar": "^0.6.4"
